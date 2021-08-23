@@ -16,7 +16,7 @@ namespace test_products.Controllers
         /// </summary>
         private static readonly string[] Summaries = new[]
         {
-            "Freezing","view"
+            "Freezing",
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
